@@ -22,7 +22,7 @@ _______
 
 #### Linguagens e ferramentas que uso atualmente:
 
-<div>
+<div style="display:flex; justify-content:flex-start; align-items:center;">
   <img height="30" src="src/icons/node.webp" title="NodeJS">
 
   <img style="margin-left:5px;" height="40" src="src/icons/php.png" title="PHP">
